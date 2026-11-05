@@ -71,4 +71,4 @@ The project structure follows a guided SQL tutorial by Alex Freberg (Alex The An
 
 ---
 
-**Andres Argeñal** · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+**Andres Argeñal** · [LinkedIn](https://www.linkedin.com/in/andresargenal/)
